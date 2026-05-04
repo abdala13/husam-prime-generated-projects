@@ -1,0 +1,12 @@
+{
+  "project_id": 1,
+  "owner_id": 2,
+  "slug": "qr",
+  "name": "Qr",
+  "billing_status": "free",
+  "status": "built",
+  "generated_repo": "abdala13/husam-prime-generated-projects",
+  "github_path": "generated_projects/free/user-2/qr/source",
+  "created_at": 1777932924,
+  "updated_at": 1777932929
+}
